@@ -21,9 +21,15 @@
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-Papers-on-Machine-Learning/blob/master/mal(11).pdf" style="text-decoration:none;">Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images</a></b></li>
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-Papers-on-Machine-Learning/blob/master/mal(12).pdf" style="text-decoration:none;">Intriguing properties of neural networks</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Top-Papers-on-Machine-Learning/blob/master/mal(13).pdf" style="text-decoration:none;">Training recurrent networks online without backtracking</a></b></li>
   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Top-Papers-on-Machine-Learning/blob/master/mal(14).pdf" style="text-decoration:none;">Pattern Recognition and Machine Learning</a></b></li> 
  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-Papers-on-Machine-Learning/blob/master/mal(15).pdf" style="text-decoration:none;">PEGASUS: A Peta-Scale Graph Mining System - Implementation and Observations</a></b></li>
   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Top-Papers-on-Machine-Learning/blob/master/mal(16).pdf" style="text-decoration:none;">Parallel Spectral Clustering in Distributed Systems</a></b></li>  
   
   
   
